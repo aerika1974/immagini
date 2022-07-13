@@ -16,3 +16,6 @@ immagini pubbliche
 ![cardotek](https://user-images.githubusercontent.com/104754539/166198188-696ab9b4-6cb6-4de2-8a18-539eaad351aa.png)
 ![effippro](https://user-images.githubusercontent.com/104754539/166198349-f5fc048a-d645-4ba8-ac3f-961fe5e4db9f.png)
 ![stronghold](https://user-images.githubusercontent.com/104754539/166198624-1bd9ae1a-a6bd-4454-a8a1-4f39f07dcbc0.png)
+# immagini
+immagini Labig
+![poker](https://user-images.githubusercontent.com/104754539/178691135-b85b9a5b-c3d9-4393-8a34-213ed65121e2.png)
