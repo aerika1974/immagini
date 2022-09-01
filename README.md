@@ -22,4 +22,4 @@ immagini Labig
 ![BORGOVET](https://user-images.githubusercontent.com/104754539/178705623-7627c315-9576-4f2f-80c3-80d849c56b74.png)
 ![ETHOMAS](https://user-images.githubusercontent.com/104754539/178702577-8bfa5daa-1754-41f1-b088-9229ee44d8a4.png)
 ![demo](https://user-images.githubusercontent.com/104754539/179921428-519c5de9-4f1b-467e-b7cc-f80fc235d08d.png)
-![apalogo](https://user-images.githubusercontent.com/104754539/187887821-dc7831e3-413c-4040-8a70-b6c65e3f4424.jpg)
+![apa](https://user-images.githubusercontent.com/104754539/187888462-78b62f13-d962-4c64-b2b4-93f387d7aabf.png)
