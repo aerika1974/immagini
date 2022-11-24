@@ -24,3 +24,4 @@ immagini Labig
 ![demo](https://user-images.githubusercontent.com/104754539/179921428-519c5de9-4f1b-467e-b7cc-f80fc235d08d.png)
 
 ![apa](https://user-images.githubusercontent.com/104754539/187888981-fbf6fd4a-e2df-489b-afab-8080dffef018.png)
+![LogoApetek](https://user-images.githubusercontent.com/104754539/203810672-cb692322-8cc0-4ae3-b8a1-e3c5ab7e8f20.png)
