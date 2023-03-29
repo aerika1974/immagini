@@ -25,3 +25,8 @@ immagini Labig
 
 ![apa](https://user-images.githubusercontent.com/104754539/187888981-fbf6fd4a-e2df-489b-afab-8080dffef018.png)
 ![LogoApetek](https://user-images.githubusercontent.com/104754539/203810672-cb692322-8cc0-4ae3-b8a1-e3c5ab7e8f20.png)
+![cono2](https://user-images.githubusercontent.com/104754539/228554191-b1133827-6492-4392-860a-6c8016c273d5.png)
+![bicchiere](https://user-images.githubusercontent.com/104754539/228554438-f616846c-e9ba-4ac7-9d5f-a6aef0c08d1d.png)
+![coppetta](https://user-images.githubusercontent.com/104754539/228554466-6699ea6d-7800-467d-bad9-72174e9401e7.JPG)
+![vaschetta](https://user-images.githubusercontent.com/104754539/228555161-3a957b77-47bc-4c84-b751-b6c299c6a33b.png)
+![bevande](https://user-images.githubusercontent.com/104754539/228555538-5be1d732-ae1b-44b3-8343-b9ca0c9e4fda.png)
