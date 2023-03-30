@@ -30,5 +30,9 @@ immagini Labig
 ![bicchiere](https://user-images.githubusercontent.com/104754539/228558154-19b9aee2-94df-4603-9f16-112cfc827787.png)
 ![bevande](https://user-images.githubusercontent.com/104754539/228558174-0763caef-5ef1-48bb-afb4-4f7985433d45.png)
 
-![coppetta](https://user-images.githubusercontent.com/104754539/228558250-b72e399d-19d7-438c-b7df-65655c1491fd.JPG)
+![coppetta](https://user-images.g
+ithubuserco![Uploading aggiunte.png…]()
+ntent.com/104754539/228558250-b72e399d-19d7-438c-b7df-65655c1491fd.JPG)
 ![cono2](https://user-images.githubusercontent.com/104754539/228608302-9269ff78-c62c-4c35-9164-7d909c4ee2e0.png)
+![aggiunte](https://user-images.githubusercontent.com/104754539/228756064-a1f33213-baa2-49c9-aa50-19cbeaf9885c.png)
+![Uploading aggiunte.png…]()
