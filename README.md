@@ -31,6 +31,7 @@ immagini Labig
 ![bevande](https://user-images.githubusercontent.com/104754539/228558174-0763caef-5ef1-48bb-afb4-4f7985433d45.png)
 ![coppetta](https://user-images.githubusercontent.com/104754539/229054733-09e13bd6-7005-4dde-9e6f-339ceb9d7c3f.JPG)
 ![newlogo](https://user-images.githubusercontent.com/104754539/230355022-3a3ccb11-cbad-40a4-b473-19011188671b.JPG)
+![altre consegne](https://user-images.githubusercontent.com/104754539/230356413-01eba383-ad19-4dfe-be56-105e38dc6569.png)
 
 ![torte](https://user-images.githubusercontent.com/104754539/229054756-e0d4155a-84a8-4b73-9db8-349586d2fb8b.png)
 
