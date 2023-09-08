@@ -39,3 +39,7 @@ immagini Labig
 ![aggiunte](https://user-images.githubusercontent.com/104754539/228756064-a1f33213-baa2-49c9-aa50-19cbeaf9885c.png)
 ![Uploading aggiunte.png…]()
 ![bundle](https://user-images.githubusercontent.com/104754539/229054349-dc7f8f53-9790-44ad-be34-8c6ff79c00f2.JPG)
+![LOGO NETWORK](https://github.com/aerika1974/immagini/assets/104754539/766133a8-9b9c-4589-8582-2b4c462ef6f8)
+![LOGO METODO](https://github.com/aerika1974/immagini/assets/104754539/3b151ac4-4450-478e-a572-fcacccd8bce2)
+![LOGO GUTTADAURO](https://github.com/aerika1974/immagini/assets/104754539/335aa2ee-1083-47b9-a21d-94b9f559f177)
+
