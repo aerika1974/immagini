@@ -37,7 +37,12 @@ immagini Labig
 
 ![cono2](https://user-images.githubusercontent.com/104754539/228608302-9269ff78-c62c-4c35-9164-7d909c4ee2e0.png)
 ![aggiunte](https://user-images.githubusercontent.com/104754539/228756064-a1f33213-baa2-49c9-aa50-19cbeaf9885c.png)
-![Uploading aggiunte.png…]()
+![roditori-200](https://github.com/aerika1974/immagini/assets/104754539/e59957ad-d3e1-4cef-8d09-ae9e22b9afe3)
+![pesci-200](https://github.com/aerika1974/immagini/assets/104754539/a11c05e5-d6fe-48ba-8aaa-14863ab2e4eb)
+![rettile-200](https://github.com/aerika1974/immagini/assets/104754539/c7c530cd-6ed0-41b8-bd25-45c8c375e157)
+![giardino-200](https://github.com/aerika1974/immagini/assets/104754539/87280dff-65fb-4f9d-ac9b-dc1b0e5ec2de)
+![cane-200](https://github.com/aerika1974/immagini/assets/104754539/c3b594bd-cb0b-406f-8e5a-1a9c6184ddbf)
+![gatto-200](https://github.com/aerika1974/immagini/assets/104754539/37a6d0ab-198f-4416-8e38-478f7c65acd1)
 ![bundle](https://user-images.githubusercontent.com/104754539/229054349-dc7f8f53-9790-44ad-be34-8c6ff79c00f2.JPG)
 ![LOGO NETWORK](https://github.com/aerika1974/immagini/assets/104754539/766133a8-9b9c-4589-8582-2b4c462ef6f8)
 ![LOGO METODO](https://github.com/aerika1974/immagini/assets/104754539/3b151ac4-4450-478e-a572-fcacccd8bce2)
