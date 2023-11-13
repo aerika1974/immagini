@@ -28,10 +28,21 @@ immagini Labig
 
 ![vaschetta](https://user-images.githubusercontent.com/104754539/228558125-644be4f6-8acd-419d-a7c8-faf870aa47c1.png)
 ![bicchiere](https://user-images.githubusercontent.com/104754539/228558154-19b9aee2-94df-4603-9f16-112cfc827787.png)
+![card-quadrotto](https://github.com/aerika1974/immagini/assets/104754539/903ed38a-345e-45ed-bc5c-17ead0ccb107)
+
+![CARD-CROISSANT-CREMA](https://github.com/aerika1974/immagini/assets/104754539/de37593e-d878-48f1-a8b3-a95fd0602fb3)
+![bevande](https://github.com/aerika1974/immagini/assets/104754539/fe38dda9-79a6-497a-9b6f-835aca355006)
+
+![CARD-PIZZA-MARGHERITA](https://github.com/aerika1974/immagini/assets/104754539/d799ac6a-c894-4f3e-9123-eebd3a9e7063)
+
+
 ![bevande](https://user-images.githubusercontent.com/104754539/228558174-0763caef-5ef1-48bb-afb4-4f7985433d45.png)
 ![coppetta](https://user-images.githubusercontent.com/104754539/229054733-09e13bd6-7005-4dde-9e6f-339ceb9d7c3f.JPG)
+![CARD-PATATE-ARROSTO](https://github.com/aerika1974/immagini/assets/104754539/08960c7c-18a7-4b43-859d-43023f4fcc6c)
+
 ![newlogo](https://user-images.githubusercontent.com/104754539/230355022-3a3ccb11-cbad-40a4-b473-19011188671b.JPG)
 ![altre consegne](https://user-images.githubusercontent.com/104754539/230356413-01eba383-ad19-4dfe-be56-105e38dc6569.png)
+![CARD-KRAPFEN-1](https://github.com/aerika1974/immagini/assets/104754539/a9a1f993-bfc1-4dd4-b794-6260d7b67b02)
 
 ![torte](https://user-images.githubusercontent.com/104754539/229054756-e0d4155a-84a8-4b73-9db8-349586d2fb8b.png)
 
