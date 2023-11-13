@@ -25,9 +25,12 @@ immagini Labig
 
 ![apa](https://user-images.githubusercontent.com/104754539/187888981-fbf6fd4a-e2df-489b-afab-8080dffef018.png)
 ![LogoApetek](https://user-images.githubusercontent.com/104754539/203810672-cb692322-8cc0-4ae3-b8a1-e3c5ab7e8f20.png)
+![CARD-FOCACCIA-LIGURE](https://github.com/aerika1974/immagini/assets/104754539/ccaa3454-460b-4363-a1fe-606c81e1e719)
+
 
 ![vaschetta](https://user-images.githubusercontent.com/104754539/228558125-644be4f6-8acd-419d-a7c8-faf870aa47c1.png)
 ![bicchiere](https://user-images.githubusercontent.com/104754539/228558154-19b9aee2-94df-4603-9f16-112cfc827787.png)
+
 ![card-quadrotto](https://github.com/aerika1974/immagini/assets/104754539/903ed38a-345e-45ed-bc5c-17ead0ccb107)
 
 ![CARD-CROISSANT-CREMA](https://github.com/aerika1974/immagini/assets/104754539/de37593e-d878-48f1-a8b3-a95fd0602fb3)
