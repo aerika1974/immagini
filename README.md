@@ -16,7 +16,10 @@ immagini pubbliche
 ![cardotek](https://user-images.githubusercontent.com/104754539/166198188-696ab9b4-6cb6-4de2-8a18-539eaad351aa.png)
 ![effippro](https://user-images.githubusercontent.com/104754539/166198349-f5fc048a-d645-4ba8-ac3f-961fe5e4db9f.png)
 ![stronghold](https://user-images.githubusercontent.com/104754539/166198624-1bd9ae1a-a6bd-4454-a8a1-4f39f07dcbc0.png)
+
 # immagini
+![DELIVEROO2](https://github.com/aerika1974/immagini/assets/104754539/6ced1822-fce0-4f83-b71e-bc3b2cd2f0d9)
+
 immagini Labig
 ![caffè](https://github.com/aerika1974/immagini/assets/104754539/f8719f85-0625-47de-9ca8-fc8fc3a445cd)
 ![DELIVEROO](https://github.com/aerika1974/immagini/assets/104754539/0ce7816c-7601-4d0e-a084-8970ed428e09)
