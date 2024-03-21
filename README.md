@@ -18,6 +18,8 @@ immagini pubbliche
 ![stronghold](https://user-images.githubusercontent.com/104754539/166198624-1bd9ae1a-a6bd-4454-a8a1-4f39f07dcbc0.png)
 
 # immagini
+![GLOVO](https://github.com/aerika1974/immagini/assets/104754539/04b5d514-a5e5-4d74-a5e2-b22cbd20a042)
+
 ![DELIVEROO2](https://github.com/aerika1974/immagini/assets/104754539/6ced1822-fce0-4f83-b71e-bc3b2cd2f0d9)
 
 immagini Labig
