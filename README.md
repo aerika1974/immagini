@@ -19,13 +19,15 @@ immagini pubbliche
 # immagini
 immagini Labig
 ![caffè](https://github.com/aerika1974/immagini/assets/104754539/f8719f85-0625-47de-9ca8-fc8fc3a445cd)
+![DELIVEROO](https://github.com/aerika1974/immagini/assets/104754539/0ce7816c-7601-4d0e-a084-8970ed428e09)
 
 ![poker](https://user-images.githubusercontent.com/104754539/178691135-b85b9a5b-c3d9-4393-8a34-213ed65121e2.png)
 ![BORGOVET](https://user-images.githubusercontent.com/104754539/178705623-7627c315-9576-4f2f-80c3-80d849c56b74.png)
 ![ETHOMAS](https://user-images.githubusercontent.com/104754539/178702577-8bfa5daa-1754-41f1-b088-9229ee44d8a4.png)
 ![demo](https://user-images.githubusercontent.com/104754539/179921428-519c5de9-4f1b-467e-b7cc-f80fc235d08d.png)
 
-![apa](https://user-images.githubusercontent.com/104754539/187888981-fbf6fd4a-e2df-489b-afab-8080dffef018.png)
+![apa](https://user-images.githubusercontent.com/104754539/187888981-fbf6fd4a-e2df-489b-afab-8080dffef018.png)![DELIVEROO](https://github.com/aerika1974/immagini/assets/104754539/91d55a3d-98ab-4bfc-829c-43eb532fb679)
+
 ![LogoApetek](https://user-images.githubusercontent.com/104754539/203810672-cb692322-8cc0-4ae3-b8a1-e3c5ab7e8f20.png)
 ![CARD-FOCACCIA-LIGURE](https://github.com/aerika1974/immagini/assets/104754539/ccaa3454-460b-4363-a1fe-606c81e1e719)
 
@@ -41,6 +43,8 @@ immagini Labig
 
 ![CARD-PIZZA-MARGHERITA](https://github.com/aerika1974/immagini/assets/104754539/d799ac6a-c894-4f3e-9123-eebd3a9e7063)
 
+![DELIVEROO](https://github.com/aerika1974/immagini/assets/104754539/0e11a3aa-579b-4633-84c7-1681bee0c559)
+![EATINTIME](https://github.com/aerika1974/immagini/assets/104754539/c934db81-04ab-479e-bc30-598fbb2d4bed)
 
 ![bevande](https://user-images.githubusercontent.com/104754539/228558174-0763caef-5ef1-48bb-afb4-4f7985433d45.png)
 ![coppetta](https://user-images.githubusercontent.com/104754539/229054733-09e13bd6-7005-4dde-9e6f-339ceb9d7c3f.JPG)
