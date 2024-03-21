@@ -17,6 +17,7 @@ immagini pubbliche
 ![effippro](https://user-images.githubusercontent.com/104754539/166198349-f5fc048a-d645-4ba8-ac3f-961fe5e4db9f.png)
 ![stronghold](https://user-images.githubusercontent.com/104754539/166198624-1bd9ae1a-a6bd-4454-a8a1-4f39f07dcbc0.png)
 ![logo (1)](https://github.com/aerika1974/immagini/assets/104754539/e2b8081f-ce06-4736-a1ba-94f523b6a70f)
+![BTEGA](https://github.com/aerika1974/immagini/assets/104754539/8f92fcd8-ebb2-48b1-a439-ccbfa851a7a1)
 
 # immagini
 ![GLOVO](https://github.com/aerika1974/immagini/assets/104754539/04b5d514-a5e5-4d74-a5e2-b22cbd20a042)
