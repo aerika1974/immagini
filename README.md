@@ -31,6 +31,17 @@ immagini pubbliche
 
 ![DELIVEROO2](https://github.com/aerika1974/immagini/assets/104754539/6ced1822-fce0-4f83-b71e-bc3b2cd2f0d9)
 
+![ubereats](https://github.com/aerika1974/immagini/assets/104754539/39e76755-5b9c-429f-8c3c-6be859174f5b)
+![toogoodtogo](https://github.com/aerika1974/immagini/assets/104754539/b5fd88fc-c506-4673-8943-dbad60324776)
+![justeat](https://github.com/aerika1974/immagini/assets/104754539/91338dfa-e53a-4864-b0d6-96ae3b11f579)
+![glovo](https://github.com/aerika1974/immagini/assets/104754539/663e67bc-86ec-44e4-b80b-d58f20643ed9)
+![deliveroo](https://github.com/aerika1974/immagini/assets/104754539/e10156e9-3742-418c-97f9-b55f3efe162d)
+![campi](https://github.com/aerika1974/immagini/assets/104754539/72cfb86f-ff0c-4ee5-8c7d-58b524572043)
+![BTEGA](https://github.com/aerika1974/immagini/assets/104754539/023a1ec0-2339-47a8-a01c-0b1f7d75ee99)
+
+
+![PROMO](https://github.com/aerika1974/immagini/assets/104754539/ad88f4a6-6619-49be-883b-d8c38c994654)
+
 immagini Labig
 ![caffè](https://github.com/aerika1974/immagini/assets/104754539/f8719f85-0625-47de-9ca8-fc8fc3a445cd)
 ![DELIVEROO](https://github.com/aerika1974/immagini/assets/104754539/0ce7816c-7601-4d0e-a084-8970ed428e09)
