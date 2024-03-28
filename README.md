@@ -19,6 +19,12 @@ immagini pubbliche
 ![logo (1)](https://github.com/aerika1974/immagini/assets/104754539/e2b8081f-ce06-4736-a1ba-94f523b6a70f)
 ![BTEGA](https://github.com/aerika1974/immagini/assets/104754539/8f92fcd8-ebb2-48b1-a439-ccbfa851a7a1)
 ![dolce](https://github.com/aerika1974/immagini/assets/104754539/a425ab84-07b9-425b-a5e7-02757d3a2cdd)
+![caffetteria](https://github.com/aerika1974/immagini/assets/104754539/8f6ff00a-4400-4c27-be68-97c38a45d8e9)
+![brioche](https://github.com/aerika1974/immagini/assets/104754539/69627822-a38f-4995-acfd-5e7dabb262a0)
+![botega](https://github.com/aerika1974/immagini/assets/104754539/e70e93da-e343-4945-9768-b21728a81487)
+![bevande](https://github.com/aerika1974/immagini/assets/104754539/4d5ee80f-266c-4ad2-813b-841979d827ab)
+![altro](https://github.com/aerika1974/immagini/assets/104754539/d51cbb55-74b8-44c5-9f4b-e46ff23994a5)
+![salato](https://github.com/aerika1974/immagini/assets/104754539/7f85ee50-23d9-4e43-bfa4-981efca746f3)
 
 # immagini
 ![GLOVO](https://github.com/aerika1974/immagini/assets/104754539/04b5d514-a5e5-4d74-a5e2-b22cbd20a042)
