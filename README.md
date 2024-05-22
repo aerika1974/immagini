@@ -40,6 +40,7 @@ immagini pubbliche
 ![campi](https://github.com/aerika1974/immagini/assets/104754539/72cfb86f-ff0c-4ee5-8c7d-58b524572043)
 ![BTEGA](https://github.com/aerika1974/immagini/assets/104754539/023a1ec0-2339-47a8-a01c-0b1f7d75ee99)
 
+![red](https://github.com/aerika1974/immagini/assets/104754539/5453fa38-9d1d-4e05-8c96-46ff676a550d)
 
 ![PROMO](https://github.com/aerika1974/immagini/assets/104754539/ad88f4a6-6619-49be-883b-d8c38c994654)
 
