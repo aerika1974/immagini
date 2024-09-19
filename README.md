@@ -23,7 +23,8 @@ immagini pubbliche
 ![brioche](https://github.com/aerika1974/immagini/assets/104754539/69627822-a38f-4995-acfd-5e7dabb262a0)
 ![botega](https://github.com/aerika1974/immagini/assets/104754539/e70e93da-e343-4945-9768-b21728a81487)
 ![bevande](https://github.com/aerika1974/immagini/assets/104754539/4d5ee80f-266c-4ad2-813b-841979d827ab)
-![altro](https://github.com/aerika1974/immagini/assets/104754539/d51cbb55-74b8-44c5-9f4b-e46ff23994a5)
+![altro](https://github.com/aerik![CIAM](https://github.com/user-attachments/assets/0723d59f-94e9-41b8-be61-958d77588151)
+a1974/immagini/assets/104754539/d51cbb55-74b8-44c5-9f4b-e46ff23994a5)
 ![salato](https://github.com/aerika1974/immagini/assets/104754539/7f85ee50-23d9-4e43-bfa4-981efca746f3)
 ![spunta](https://github.com/aerika1974/immagini/assets/104754539/4729902d-79bb-4ed6-9080-b7682b148b9e)
 
