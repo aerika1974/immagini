@@ -68,6 +68,7 @@ immagini Labig
 ![bicchiere](https://user-images.githubusercontent.com/104754539/228558154-19b9aee2-94df-4603-9f16-112cfc827787.png)
 
 ![card-quadrotto](https://github.com/aerika1974/immagini/assets/104754539/903ed38a-345e-45ed-bc5c-17ead0ccb107)
+![TimeReport](https://github.com/user-attachments/assets/caf70024-6c83-4a45-be03-4c3ee4d6649c)
 
 ![CARD-CROISSANT-CREMA](https://github.com/aerika1974/immagini/assets/104754539/de37593e-d878-48f1-a8b3-a95fd0602fb3)
 ![bevande](https://github.com/aerika1974/immagini/assets/104754539/fe38dda9-79a6-497a-9b6f-835aca355006)
