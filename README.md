@@ -103,3 +103,13 @@ immagini Labig
 ![LOGO METODO](https://github.com/aerika1974/immagini/assets/104754539/3b151ac4-4450-478e-a572-fcacccd8bce2)
 ![LOGO GUTTADAURO](https://github.com/aerika1974/immagini/assets/104754539/335aa2ee-1083-47b9-a21d-94b9f559f177)
 
+
+** GREENMOTION
+<img width="28" height="28" alt="green" src="https://github.com/user-attachments/assets/0bbb1ae2-5bd9-46ed-ad8b-15246d73a7da" />
+<img width="16" height="16" alt="carrental" src="https://github.com/user-attachments/assets/3528bd1c-1cf6-492c-a612-dd3bb3522782" />
+<img width="32" height="32" alt="booking" src="https://github.com/user-attachments/assets/52d005fe-5f87-4ab3-a1c4-1d29fa0b4b2a" />
+
+
+
+
+
