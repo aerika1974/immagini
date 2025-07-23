@@ -113,5 +113,8 @@ immagini Labig
 ![Logo](https://github.com/user-attachments/assets/3f4ec7f5-2f11-4cfa-bbe2-ba5fdff5275a)
 
 
+<img width="225" height="224" alt="booking" src="https://github.com/user-attachments/assets/607852f2-4de8-450c-a928-a7893d760654" />
+<img width="244" height="90" alt="carrental" src="https://github.com/user-attachments/assets/dffe376c-7eaf-4dfa-b6d6-86589c074613" />
 
+<img width="225" height="225" alt="green" src="https://github.com/user-attachments/assets/aec2c005-38cc-40c2-8065-3b2121f18b88" />
 
