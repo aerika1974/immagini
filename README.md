@@ -28,8 +28,14 @@ immagini pubbliche
 ![salato](https://github.com/aerika1974/immagini/assets/104754539/7f85ee50-23d9-4e43-bfa4-981efca746f3)
 ![spunta](https://github.com/aerika1974/immagini/assets/104754539/4729902d-79bb-4ed6-9080-b7682b148b9e)
 ![CIAM](https://github.com/user-attachments/assets/bade4759-6ce1-4699-be84-3beb88b0f03c)
+<img width="397" height="94" alt="coreLAB_logo" src="https://github.com/user-attachments/assets/1f76cf34-16a5-4b95-90f5-e96c5dfd3603" />
+
+<img width="764" height="116" alt="coreCONSULTING_logo" src="https://github.com/user-attachments/assets/c65fdb03-9057-4d31-ad30-043907443bb7" />
 
 ![red](https://github.com/aerika1974/immagini/assets/104754539/e8185ae9-0333-476b-a4d5-b9b592c926ff)
+<img width="763" height="314" alt="core_logoCOMP" src="https://github.com/user-attachments/assets/50f59006-b0bb-4807-ad2a-a8d888dfe0b1" />
+
+<img width="648" height="134" alt="corelab-removebg-preview" src="https://github.com/user-attachments/assets/a06542c1-434d-4f78-9b75-fb08fe430c40" />
 
 # immagini
 ![GLOVO](https://github.com/aerika1974/immagini/assets/104754539/04b5d514-a5e5-4d74-a5e2-b22cbd20a042)
