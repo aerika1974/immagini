@@ -34,11 +34,10 @@ immagini pubbliche
 
 <img width="764" height="116" alt="coreCONSULTING_logo" src="https://github.com/user-attachments/assets/c65fdb03-9057-4d31-ad30-043907443bb7" />
 
-<img width="200" height="67" alt="core-removebg-preview" src="https://github.com/user-attachments/assets/2aac2bcd-26ab-407c-8abb-da038e1431cb" />
 
-<img width="763" height="314" alt="core_logoCOMP" src="https://github.com/user-attachments/assets/50f59006-b0bb-4807-ad2a-a8d888dfe0b1" />
 
-<img width="648" height="134" alt="corelab-removebg-preview" src="https://github.com/user-attachments/assets/a06542c1-434d-4f78-9b75-fb08fe430c40" />
+
+
 
 # immagini
 ![GLOVO](https://github.com/aerika1974/immagini/assets/104754539/04b5d514-a5e5-4d74-a5e2-b22cbd20a042)
