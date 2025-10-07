@@ -32,7 +32,8 @@ immagini pubbliche
 # CORE CONSULTING
 
 <img width="764" height="116" alt="coreCONSULTING_logo" src="https://github.com/user-attachments/assets/53085035-fbe5-446e-bf98-0e6cc1876d13" />
-<img width="397" height="94" alt="coreLAB_logo" src="https://github.com/user-attachments/assets/9f88add4-69f4-4175-b151-cafc0453b2f2" />
+
+<img width="238" height="56" alt="coreLAB_logo" src="https://github.com/user-attachments/assets/06d7aeb2-b86d-4ca1-a85d-49f295725d22" />
 
 
 
