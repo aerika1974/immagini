@@ -34,6 +34,7 @@ immagini pubbliche
 
 <img width="764" height="116" alt="coreCONSULTING_logo" src="https://github.com/user-attachments/assets/c65fdb03-9057-4d31-ad30-043907443bb7" />
 
+<img width="200" height="67" alt="core-removebg-preview" src="https://github.com/user-attachments/assets/c641bd56-edf2-4241-aa29-141c5813a819" />
 
 
 
