@@ -30,12 +30,10 @@ immagini pubbliche
 ![CIAM](https://github.com/user-attachments/assets/bade4759-6ce1-4699-be84-3beb88b0f03c)
 
 # CORE CONSULTING
-<img width="397" height="94" alt="coreLAB_logo" src="https://github.com/user-attachments/assets/1f76cf34-16a5-4b95-90f5-e96c5dfd3603" />
 
-<img width="764" height="116" alt="coreCONSULTING_logo" src="https://github.com/user-attachments/assets/c65fdb03-9057-4d31-ad30-043907443bb7" />
-
-<img width="200" height="67" alt="core-removebg-preview" src="https://github.com/user-attachments/assets/c641bd56-edf2-4241-aa29-141c5813a819" />
-
+<img width="764" height="116" alt="coreCONSULTING_logo" src="https://github.com/user-attachments/assets/53085035-fbe5-446e-bf98-0e6cc1876d13" />
+<img width="198" height="46" alt="coreLAB_logo-removebg-preview" src="https://github.com/user-attachments/assets/8254c30c-9d3e-4544-9ef9-491f9b7f2484" />
+<img width="100" height="33" alt="core-removebg-preview" src="https://github.com/user-attachments/assets/e83a642c-cca1-4f70-b7b0-a47ad2b9ddc1" />
 
 
 
