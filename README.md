@@ -31,9 +31,9 @@ immagini pubbliche
 
 
 # ciam!
-![cassettiera](https://github.com/user-attachments/assets/8e4ec8c5-dd2b-4101-bb54-b2690ffaeaca)
-![tende](https://github.com/user-attachments/assets/7a71efb8-f2a0-4a1f-895f-c67db0601dc6)
 
+<img width="36" height="37" alt="tende" src="https://github.com/user-attachments/assets/2bc037ac-6771-40ee-9772-b35b98b7c4f4" />
+<img width="60" height="63" alt="cassettiera" src="https://github.com/user-attachments/assets/2a71e378-528e-4d0a-b0f0-8998414bd8ca" />
 
 
 
