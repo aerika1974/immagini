@@ -29,7 +29,16 @@ immagini pubbliche
 ![spunta](https://github.com/aerika1974/immagini/assets/104754539/4729902d-79bb-4ed6-9080-b7682b148b9e)
 ![CIAM](https://github.com/user-attachments/assets/bade4759-6ce1-4699-be84-3beb88b0f03c)
 
-# CORE CONSULTING
+
+# ciam!
+![cassettiera](https://github.com/user-attachments/assets/8e4ec8c5-dd2b-4101-bb54-b2690ffaeaca)
+![tende](https://github.com/user-attachments/assets/7a71efb8-f2a0-4a1f-895f-c67db0601dc6)
+
+
+
+
+# CORE CONSULTING!
+
 
 <img width="764" height="116" alt="coreCONSULTING_logo" src="https://github.com/user-attachments/assets/53085035-fbe5-446e-bf98-0e6cc1876d13" />
 
